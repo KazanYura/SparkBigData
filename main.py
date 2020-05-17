@@ -209,7 +209,7 @@ def main(file_name, file_c_name):
     times = [start_time, time_1, time_2, time_3, time_4, time_5, time_6]
     for res in range(len(results)):
         save_data(file_name, results[res], res + 1)
-    with open("results/" + file_name[:2] + "_analysis1.txt", 'w', encoding='utf-8') as f:
+    with open("results/" + file_name[:2] + "_analysis.txt", 'w', encoding='utf-8') as f:
         f.write("-" * 19 + "\n")
         for t in range(1, len(times)):
             diff = (times[t] - times[t - 1]).__round__(2)
