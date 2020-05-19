@@ -28,7 +28,7 @@ Everything what is written here was calculated for local spark server.
 
 
 #### Size of input data 64.1 MB
-#### Size of all output data 511.5 kB
+#### Size of all output data 575.3 kB
 
 #### Cluster params missed because of missing AWS
 
