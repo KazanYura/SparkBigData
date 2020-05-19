@@ -18,13 +18,13 @@ This part will be added soon. Because in this moment it is imposible for me to u
 Everything what is written here was calculated for local spark server. 
 
 | Test   |  Time  |
-| :------|-------:|
-| Test 1 | 13.38s |
-| Test 2 |   0.0s |
-| Test 3 | 23.32s |
-| Test 4 |229.26s |
-| Test 5 |607.35s |
-| Test 6 | 46.28s |
+| :------|---------:|
+| Test 1 | 13.38s   |
+| Test 2 |11002.73s |
+| Test 3 | 23.32s   |
+| Test 4 |229.26s   |
+| Test 5 |607.35s   |
+| Test 6 | 46.28s   |
 
 
 #### Size of input data 64.1 MB
